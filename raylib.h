@@ -193,12 +193,48 @@
 #define BEIGE      CLITERAL(Color){ 211, 176, 131, 255 }   // Beige
 #define BROWN      CLITERAL(Color){ 127, 106, 79, 255 }    // Brown
 #define DARKBROWN  CLITERAL(Color){ 76, 63, 47, 255 }      // Dark Brown
+#define MOSS       CLITERAL(Color){ 44, 95, 45, 255 }      // Moss Green
 
 #define WHITE      CLITERAL(Color){ 255, 255, 255, 255 }   // White
 #define BLACK      CLITERAL(Color){ 0, 0, 0, 255 }         // Black
 #define BLANK      CLITERAL(Color){ 0, 0, 0, 0 }           // Blank (Transparent)
 #define MAGENTA    CLITERAL(Color){ 255, 0, 255, 255 }     // Magenta
 #define RAYWHITE   CLITERAL(Color){ 245, 245, 245, 255 }   // My own White (raylib logo)
+
+#define SOFT_GRAY    CLITERAL(Color){ 220, 220, 220, 255 }  // Soft Gray
+#define SLATE_GRAY   CLITERAL(Color){ 112, 128, 144, 255 }  // Slate Gray
+#define CHARCOAL     CLITERAL(Color){ 54, 69, 79, 255 }     // Charcoal
+
+#define LEMON        CLITERAL(Color){ 255, 250, 102, 255 }  // Lemon
+#define AMBER        CLITERAL(Color){ 255, 191, 0, 255 }    // Amber
+#define CORAL        CLITERAL(Color){ 255, 127, 80, 255 }   // Coral
+
+#define ROSE         CLITERAL(Color){ 255, 87, 127, 255 }   // Rose
+#define CRIMSON      CLITERAL(Color){ 220, 20, 60, 255 }    // Crimson
+#define BURGUNDY     CLITERAL(Color){ 128, 0, 32, 255 }     // Burgundy
+
+#define MINT         CLITERAL(Color){ 62, 180, 137, 255 }   // Mint
+#define EMERALD      CLITERAL(Color){ 46, 204, 113, 255 }   // Emerald
+#define FOREST       CLITERAL(Color){ 34, 139, 34, 255 }    // Forest Green
+
+#define AZURE        CLITERAL(Color){ 0, 127, 255, 255 }    // Azure
+#define SAPPHIRE     CLITERAL(Color){ 15, 82, 186, 255 }    // Sapphire
+#define NAVY         CLITERAL(Color){ 0, 0, 128, 255 }      // Navy
+
+#define BACKGROUND     CLITERAL(Color){ 2, 48, 71, 255 }  // Lavender
+#define AMETHYST     CLITERAL(Color){ 153, 102, 204, 255 }  // Amethyst
+#define INDIGO       CLITERAL(Color){ 75, 0, 130, 255 }     // Indigo
+
+#define SAND         CLITERAL(Color){ 194, 178, 128, 255 }  // Sand
+#define SIENNA       CLITERAL(Color){ 160, 82, 45, 255 }    // Sienna
+#define MAHOGANY     CLITERAL(Color){ 103, 54, 34, 255 }    // Mahogany
+
+#define PURE_WHITE   CLITERAL(Color){ 255, 255, 255, 255 }  // Pure White
+#define JET_BLACK    CLITERAL(Color){ 10, 10, 10, 255 }     // Jet Black
+#define TRANSPARENT  CLITERAL(Color){ 0, 0, 0, 0 }          // Transparent
+#define FUCHSIA      CLITERAL(Color){ 255, 0, 255, 255 }    // Fuchsia
+#define OFF_WHITE    CLITERAL(Color){ 250, 249, 246, 255 }  // Off-White
+
 
 //----------------------------------------------------------------------------------
 // Structures Definition
